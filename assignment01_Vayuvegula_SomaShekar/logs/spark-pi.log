@@ -1,0 +1,6 @@
+23/03/18 00:29:41 WARN Utils: Your hostname, Somas-MacBook-Pro.local resolves to a loopback address: 127.0.0.1; using 192.168.0.17 instead (on interface en0)
+23/03/18 00:29:41 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+23/03/18 00:29:42 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[Stage 0:>                                                          (0 + 2) / 2][Stage 0:=============================>                             (1 + 1) / 2]                                                                                Pi is roughly 3.149640
