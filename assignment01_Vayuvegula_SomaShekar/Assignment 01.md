@@ -11,8 +11,8 @@ author: Vayuvegula Soma Shekar
 | Data Item                                  | Size per Item | 
 |--------------------------------------------|--------------:|
 | 128 character message.                     | 128 Bytes       |
-| 1024x768 PNG image                         | 1 MB          |
-| 1024x768 RAW image                         | 7.5 MB          | 
+| 1024x768 PNG image                         | 1.5 MB          |
+| 1024x768 RAW image                         | 2.25 MB          | 
 | HD (1080p) HEVC Video (15 minutes)         | 36 MB          |
 | HD (1080p) Uncompressed Video (15 minutes) | 36000 MB          |
 | 4K UHD HEVC Video (15 minutes)             | 228 MB          |
